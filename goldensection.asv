@@ -1,0 +1,8 @@
+function [x, it] = goldensection(a0, b0, f, errmax, itMax)
+
+
+c = 3/2 - sqrt(5)/2;
+
+
+
+end
